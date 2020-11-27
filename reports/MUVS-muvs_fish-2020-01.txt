@@ -1,0 +1,40 @@
+Report for Institution Code MUVS, Resource muvs_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2156
+Number of records retrieved in searches: 2536
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2155
+	Country: Honduras ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 2139
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-06 ; Times: 12
+	Date: 2020-01-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:6524e783-4fea-4ec1-b3ce-a27cef0ca168" ; Times: 2
+	Query: "MUVS" ; Times: 1
+	Query: "institutioncode:muvs" ; Times: 1
+	Query: "institutioncode:MUVS" ; Times: 1
+	Query: "distance(location,geopoint(2813266.0539046,-2055913.08604036))&lt;454470.177343282" ; Times: 2151
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1584 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
