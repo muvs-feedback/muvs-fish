@@ -1,0 +1,33 @@
+Report for Institution Code MUVS, Resource muvs_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Caranx latus" ; Times: 2
+	Query: "Awaous banana" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 842 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
